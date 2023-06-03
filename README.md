@@ -17,8 +17,8 @@ Assign the values for x and y as required
 Create the linearRegression model and predict the output
 ## Program:
 ```
-#Developed by: ABINAYA S
-#RegisterNumber: 212222230002
+#Developed by: JAYASRI ODDDA
+#RegisterNumber: 212222240028
 import pandas as pd
 from sklearn import linear_model
 df=pd.read_csv('/content/cars.csv')
